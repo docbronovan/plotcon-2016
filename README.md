@@ -23,6 +23,6 @@ This is a quick roundup of some of the interesting talks I saw at Plotly's Confe
 
 [R Day at Plotcon](https://github.com/docbronovan/plotcon-2016/blob/master/Plotly%20Conf%20R.ipynb)
 
-[Python Day at Plotcon](https://github.com/docbronovan/https://github.com/docbronovan/plotcon-2016/blob/master/Plotly%20Conf%20python.ipynb)
+[Python Day at Plotcon](https://github.com/docbronovan/plotcon-2016/blob/master/Plotly%20Conf%20python.ipynb)
 
 [Some DASK examples](https://github.com/docbronovan/plotcon-2016/blob/master/Dask%20examples.ipynb)
